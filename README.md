@@ -1,0 +1,2 @@
+# aifrnd
+Friendly AI
